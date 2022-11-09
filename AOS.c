@@ -1,5 +1,5 @@
 //Array of structure.
-#include<stdio.h>//Header File
+#include<stdio.h>//Header File//comments
 #pragma pack(1)//For exact memory allocation.
 struct one//structure with different data.
 {
