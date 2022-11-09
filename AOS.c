@@ -1,4 +1,4 @@
-//Array of structure.
+//Array of structure.Test
 #include<stdio.h>//Header File//comments
 #pragma pack(1)//For exact memory allocation.
 struct one//structure with different data.
